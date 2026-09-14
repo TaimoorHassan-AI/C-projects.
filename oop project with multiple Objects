@@ -1,5 +1,8 @@
+#include<iostream>
+using namespace std;
+
 class Car {
-  public:
+  public
     string brand;   
     string model;
     int year;
